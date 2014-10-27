@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://demo.gddlkj.com/download/ios/iPhoneIcon/appicon_72.png</string>
+					<string>https://github.com/GDDLKJ/demo/raw/master/iPhoneIcon/appicon_72.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
